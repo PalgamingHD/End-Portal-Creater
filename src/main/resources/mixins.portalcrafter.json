@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.portalcrafter.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BlockItemMixin",
+    "BlockMaterialMixin",
+    "DropPlease"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

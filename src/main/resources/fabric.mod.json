@@ -23,6 +23,7 @@
     ]
   },
   "mixins": [
+        "mixins.portalcrafter.json"
   ],
 
   "depends": {
